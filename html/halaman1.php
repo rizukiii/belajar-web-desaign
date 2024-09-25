@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Belajar Web PHP: halaman 1</title>
+    </head>
+
+    <body>
+        <!-- Hyperlink to web lain -->
+        <div>
+            <a href="http://lawba.com/">Lawba</a>,
+
+        <!-- Hyperlink to project -->
+            <a href="./halaman1.php">halaman 1 <a>
+            <a href="./halaman2.php">Halaman 2</a>
+            <a href="./halaman3.php">Halaman 3</a>
+            <a href="./halaman4.php">Halaman 4</a>
+        </div>
+
+        <!-- Membuat Headline Tag / biasa dipakai Judul di halaman -->
+        <h1>Belajar Web Desain Html : H1</h1>
+        <h2>Belajar Web Desain Html : H2</h2>
+        <h3>Belajar Web Desain Html : H3</h3>
+        <h4>Belajar Web Desain Html : H4</h4>
+        <h5>Belajar Web Desain Html : H5</h5>
+        <h6>belajar Web Desain Html : H6</h6>
+
+        <!-- Membuat Paragraf Tag : Biasanya dipakai untuk merapikan text panjang -->
+        <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur necessitatibus voluptatum fuga fugiat eaque vitae repellendus distinctio laborum, exercitationem quas impedit cumque ad. Ea dolores perferendis similique, voluptas illo porro impedit placeat, corrupti eaque neque, sint esse laborum quaerat. Suscipit numquam recusandae voluptatum soluta aliquid, tempora, sit excepturi minus repellendus alias, nihil blanditiis exercitationem porro adipisci fugit illo impedit voluptatibus! Eligendi optio nemo beatae non repellat, voluptatibus repudiandae, totam voluptates, quis harum aliquam commodi. Obcaecati assumenda illo, error modi quae minima nemo accusantium dolorum officia natus inventore, aliquid quasi repellat sequi laboriosam veniam iste aperiam totam aliquam at quos laudantium?
+        </p>
+
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis id voluptates reiciendis nulla dolore labore rem, exercitationem adipisci sapiente ab, non sint eligendi voluptas natus culpa. Quisquam quia, fugiat maiores dolor odit incidunt unde eum porro ad magni labore necessitatibus sit placeat similique obcaecati quod nostrum illo autem ipsum eligendi beatae aperiam ab voluptas? Animi accusantium ad maiores corporis dolor ut deserunt omnis possimus assumenda! Maiores quod, placeat aspernatur eos aut expedita cum labore quibusdam, iure provident ipsa modi magnam aliquid a fugit officiis perspiciatis veniam! Ratione accusantium aliquam dolorum iusto. Nobis veritatis exercitationem quibusdam quos quis maxime porro? Ipsam.</p>
+
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam dignissimos sint officiis, corrupti labore quis possimus ipsam dolore. Nisi perspiciatis accusantium cumque id, nihil, corrupti aliquam et incidunt praesentium, ut debitis libero. Aperiam nesciunt vero ratione possimus eveniet architecto accusantium, maxime non dolorum repudiandae! Alias, similique! Ex veritatis laborum saepe voluptatibus repellat, obcaecati fugiat dicta. Laborum odit ipsam cupiditate quaerat adipisci. Eos reprehenderit ducimus assumenda fugit expedita accusantium. Voluptatum cupiditate, aut odit voluptas laborum asperiores, nisi atque debitis nostrum eveniet quas necessitatibus ipsam itaque omnis, perspiciatis consequuntur obcaecati quaerat odio earum quia? Non atque ipsum voluptate, sed obcaecati illo libero.
+        <!-- Membuat Break Tag : Biasanya digunakan untuk membuat baris baru -->
+        <br>
+        <br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam dignissimos sint officiis, corrupti labore quis possimus ipsam dolore. Nisi perspiciatis accusantium cumque id, nihil, corrupti aliquam et incidunt praesentium, ut debitis libero. Aperiam nesciunt vero ratione possimus eveniet architecto accusantium, maxime non dolorum repudiandae! Alias, similique! Ex veritatis laborum saepe voluptatibus repellat, obcaecati fugiat dicta. Laborum odit ipsam cupiditate quaerat adipisci. Eos reprehenderit ducimus assumenda fugit expedita accusantium. Voluptatum cupiditate, aut odit voluptas laborum asperiores, nisi atque debitis nostrum eveniet quas necessitatibus ipsam itaque omnis, perspiciatis consequuntur obcaecati quaerat odio earum quia? Non atque ipsum voluptate, sed obcaecati illo libero.
+        <br>
+        <br>
+        <br>
+        <span>Mencoba Belajar</span>
+        <span>Web Desain</span>
+    </body>
+</html>

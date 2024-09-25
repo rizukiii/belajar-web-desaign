@@ -1,0 +1,40 @@
+/* contoh untuk styling extend file */
+
+body{
+    background-image: url(https://i.pinimg.com/474x/1b/a9/a8/1ba9a8e3c96316d922fe2de13f006aa1.jpg);
+    background-repeat: no-repeat;
+    block-size: cover;
+}
+.kotak {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+
+/* untuk membuat style gambar tapi sendiri-sendiri */
+.gambar{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+    position: absolute;
+    right: 10px;
+}
+
+.gambar2{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+/* jika ingin smua tag img langsung tercoding bersama, aktifkan tag dibawah ini */
+/* img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+} */
